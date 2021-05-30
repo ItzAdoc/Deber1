@@ -33,5 +33,5 @@
 
 6. Bibliografía
 
-![Documento 84_2](https://user-images.githubusercontent.com/84397148/120117088-227c1100-c151-11eb-8b5d-667a4547e70a.jpg)
+![](https://github.com/ItzAdoc/Deberes/blob/main/Se%20logro.png)
 
