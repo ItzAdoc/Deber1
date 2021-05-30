@@ -32,7 +32,7 @@
 ![](https://github.com/ItzAdoc/Deberes/blob/main/22.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/24.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/24.a.jpeg)
-![](https://github.com/ItzAdoc/Deberes/blob/main/24c.jpeg)
+![](https://github.com/ItzAdoc/Deberes/blob/main/24.2.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/25.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/26.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/27-28.jpeg)
