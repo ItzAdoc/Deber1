@@ -42,7 +42,6 @@
 ![](https://github.com/ItzAdoc/Deber1/blob/main/27-28.jpeg)
 ![]()
 ![]()
-![]()
 
 
 
