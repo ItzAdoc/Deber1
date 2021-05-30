@@ -49,6 +49,15 @@
 ![](https://github.com/ItzAdoc/Deber1/blob/main/40.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/41a.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/41b.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/42.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/43.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/44-45.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/46.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/47.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/48.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/49.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/50.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/51.PNG)
 ![]()
 ![]()
 ![]()
@@ -61,7 +70,9 @@
 ![]()
 ![]()
 ![]()
-
+![]()
+![]()
+![]()
 
 
 
