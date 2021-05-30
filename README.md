@@ -38,10 +38,11 @@
 
 ![](https://github.com/ItzAdoc/Deber1/blob/main/25.2.jpeg)
 
-
-
-
-
+![](https://github.com/ItzAdoc/Deber1/blob/main/26.jpeg)
+![](https://github.com/ItzAdoc/Deber1/blob/main/27-28.jpeg)
+![]()
+![]()
+![]()
 
 
 
