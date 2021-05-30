@@ -17,7 +17,7 @@
 3. Resolución de los ejercicios
 * Resolver los ejercios del capítulo 1 y 2 del libro Análisis de Circuitos de Allan H. Robbins
 
-
+![](![](https://github.com/ItzAdoc/Deberes/blob/main/Se%20logro.png))
 
 4. Video
 
@@ -33,5 +33,5 @@
 
 6. Bibliografía
 
-![](https://github.com/ItzAdoc/Deberes/blob/main/Se%20logro.png)
+
 
