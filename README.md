@@ -32,12 +32,7 @@
 ![](https://github.com/ItzAdoc/Deberes/blob/main/22.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/23.jpeg)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/24.jpeg)
-![](https://github.com/ItzAdoc/Deber1/blob/main/25.jpeg)
-![](https://github.com/ItzAdoc/Deber1/blob/main/26.jpeg)
-![](https://github.com/ItzAdoc/Deber1/blob/main/27.jpeg)
-![](https://github.com/ItzAdoc/Deber1/blob/main/28.jpeg)
-![](https://github.com/ItzAdoc/Deber1/blob/main/29-30.jpeg)
-![](https://github.com/ItzAdoc/Deber1/blob/main/32-35.jpeg)
+
 ![](  )
 ![](  )
 ![](  )
