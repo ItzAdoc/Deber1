@@ -42,6 +42,27 @@
 ![](https://github.com/ItzAdoc/Deber1/blob/main/27-28.jpeg)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/29-31.jpeg)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/32-35.jpeg)
+![](https://github.com/ItzAdoc/Deber1/blob/main/36.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/37.PNG)
+![](https://github.com/ItzAdoc/Deber1/blob/main/38.PNG)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+
 
 
 
