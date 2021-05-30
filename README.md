@@ -1,3 +1,4 @@
+
 # Informe Tarea 1
 
 
@@ -17,7 +18,7 @@
 3. Resolución de los ejercicios
 * Resolver los ejercios del capítulo 1 y 2 del libro Análisis de Circuitos de Allan H. Robbins
 
-![] (https://github.com/ItzAdoc/Deberes/blob/main/Se%20logro.png)
+![Ejercicio 1](https://github.com/ItzAdoc/Deberes/blob/main/image.png)
 
 4. Video
 
