@@ -2,9 +2,9 @@
 
 
 1. Objetivos  
-* Obt1
+* Objetivo 1
 * Ojetivo 2
-* Obje 3
+* Objetivo n
 
 
 
@@ -25,7 +25,9 @@
 
 
 5. Conclusiones 
-
+* Conclu 1
+* Conclu 2 
+* Conclu n
 
 
 6. Bibliografía
