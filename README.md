@@ -1,2 +1,2 @@
-# Deberes
-Deber 1
+#Informe Deber 1
+##Objetivos
