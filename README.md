@@ -21,6 +21,7 @@
 ![](https://github.com/ItzAdoc/Deberes/blob/main/1.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/2.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/3.jpeg)
+![](https://github.com/ItzAdoc/Deberes/blob/main/4-6.jpeg)
 
 ![](https://github.com/ItzAdoc/Deberes/blob/main/image.png)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/38.PNG)
