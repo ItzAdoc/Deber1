@@ -15,6 +15,7 @@
 
 
 3. Resolución de los ejercicios
+Resolver los ejercios del capítulo 1 y 2 del libro Análisis de Circuitos de Allan H. Robbins
 
 
 
