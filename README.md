@@ -20,11 +20,14 @@ __Objetivos Específicos__
 * Usar correctamente los instrumentos de medida de un circuito eléctrico
 
 
-2. Marco Teórico 
+2. Marco Teórico
 
+__CÁPITULO 1__ 
+![](
 
+__CÁPITULO 2__
 
-
+![](
 3. Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 1 y 2 del libro Análisis de Circuitos de Allan H. Robbins
 
