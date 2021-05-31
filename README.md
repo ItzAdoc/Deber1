@@ -63,6 +63,13 @@
 ![](https://github.com/ItzAdoc/Deber1/blob/main/54.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/56.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/57.PNG)
+__58. Muchas revistas de electrónica y computación contienen anuncios de herramientas de software para computadora como el Pspice, Mathcad, Matlab y
+muchos otros. Consulte algunas de éstas revistas en la biblioteca de su escuela. Al estudiar estos anuncios se logra obtener un conocimiento valioso
+acerca de lo que los paquetes de software modernos son capaces de hacer.__
+
+“Es un lenguaje y, a la vez, un entorno de programación gráfica en el que se puede crear aplicaciones de una forma rápida y sencilla” Vizcaíno, (2001) (pág. 21)  
+LabVIEW es un software diseñado por la empresa National Instrument. LabVIEW es un software el cual permite programar cualquier código, lo que hace especialmente bueno a LabVIEW es que se programan a partir de una interfaz visual, haciendo que sea más intuito y fácil de entender. Aparte de ello cuando se finaliza el programa, se tiene la posibilidad de exportar el código del programa a un lenguaje no gráfico, esto facilita muchísimo el tiempo, ya que al ver el código gráficamente es más fácil encontrar los errores, y por ello LabVIEW es un programa de alta calidad.
+
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.1.1.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.1.2.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.2.PNG)
