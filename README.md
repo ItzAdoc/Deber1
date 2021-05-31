@@ -23,10 +23,10 @@ __Objetivos Específicos__
 
 2. Marco Teórico
 
-__CÁPITULO 1__ 
+
 ![]() 
 
-__CÁPITULO 2__
+
 
 ![]( https://github.com/ItzAdoc/Deber1/blob/main/Marco_Teorico_Cap2.jpg?) 
 3. Resolución de los ejercicios
