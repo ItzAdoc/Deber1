@@ -100,7 +100,7 @@ LabVIEW es un software diseñado por la empresa National Instrument. LabVIEW es 
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.33-2.34.jpeg)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.35-2.36.jpeg)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.37-2.38.jpeg)
-![](https://github.com/ItzAdoc/Deber1/blob/main/2.36-2.41.jpeg)
+![](https://github.com/ItzAdoc/Deber1/blob/main/2.39-2.40.jpeg)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.41-2.45.jpeg)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.46-2.47.jpeg)
 
