@@ -29,6 +29,7 @@ __Objetivos Específicos__
 
 
 ![]( https://github.com/ItzAdoc/Deber1/blob/main/Marco_Teorico_Cap2.jpg?) 
+
 3. Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 1 y 2 del libro Análisis de Circuitos de Allan H. Robbins
 
