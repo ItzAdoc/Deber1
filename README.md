@@ -2,9 +2,9 @@
 # Informe Tarea 1
 
 
-1. Objetivos  
-* Objetivo 1
-* Ojetivo 2
+1. Objetivos Generales 
+* Comprender las notaciones científica, notacion de ingeniería, el atomo drento de la electricidad y sus usos. 
+* Analizar los principios de electricidad, simbologia normalizada, formas de representación de un circuito y los instrumentos de medición usados en un circuito
 * Objetivo n
 
 
