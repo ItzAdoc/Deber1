@@ -18,6 +18,8 @@
 3. Resolución de los ejercicios
 * Resolver los ejercios del capítulo 1 y 2 del libro Análisis de Circuitos de Allan H. Robbins
 
+CÁPITULO 1
+
 ![](https://github.com/ItzAdoc/Deberes/blob/main/1.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/2.jpeg)
 ![](https://github.com/ItzAdoc/Deberes/blob/main/3.jpeg)
@@ -70,6 +72,8 @@ acerca de lo que los paquetes de software modernos son capaces de hacer.__
 
 “Es un lenguaje y, a la vez, un entorno de programación gráfica en el que se puede crear aplicaciones de una forma rápida y sencilla” Vizcaíno, (2001) (pág. 21)  
 LabVIEW es un software diseñado por la empresa National Instrument. LabVIEW es un software el cual permite programar cualquier código, lo que hace especialmente bueno a LabVIEW es que se programan a partir de una interfaz visual, haciendo que sea más intuito y fácil de entender. Aparte de ello cuando se finaliza el programa, se tiene la posibilidad de exportar el código del programa a un lenguaje no gráfico, esto facilita muchísimo el tiempo, ya que al ver el código gráficamente es más fácil encontrar los errores, y por ello LabVIEW es un programa de alta calidad.
+
+CÁPITULO 2
 
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.1.1.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/2.1.2.PNG)
