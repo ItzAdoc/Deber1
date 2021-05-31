@@ -63,6 +63,7 @@
 ![](https://github.com/ItzAdoc/Deber1/blob/main/54.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/56.PNG)
 ![](https://github.com/ItzAdoc/Deber1/blob/main/57.PNG)
+
 __58. Muchas revistas de electrónica y computación contienen anuncios de herramientas de software para computadora como el Pspice, Mathcad, Matlab y
 muchos otros. Consulte algunas de éstas revistas en la biblioteca de su escuela. Al estudiar estos anuncios se logra obtener un conocimiento valioso
 acerca de lo que los paquetes de software modernos son capaces de hacer.__
