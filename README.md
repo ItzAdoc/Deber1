@@ -109,6 +109,6 @@ https://drive.google.com/file/d/1KGSiiHiDG8OI36OyFxdbBeimgevGtrKf/view?usp=shari
 
 
 6. Bibliografía
-
+*Vizcaíno, J. R. L., & Sebastiá, J. P. (2011).**LabView: entorno gráfico de programación. ** Marcombo.
 
 
