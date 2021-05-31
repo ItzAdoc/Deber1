@@ -106,8 +106,7 @@ LabVIEW es un software diseñado por la empresa National Instrument. LabVIEW es 
 
 4. Video
 
-
-https://drive.google.com/file/d/1KGSiiHiDG8OI36OyFxdbBeimgevGtrKf/view?usp=sharing
+https://www.youtube.com/watch?v=AeOUHNz546M
 
 
 
