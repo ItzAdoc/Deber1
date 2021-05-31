@@ -5,7 +5,7 @@
 
  __Objetivos Generales__
 
-* Comprender las notaciones científica, notación de ingeniería, el átomo dentro de la electricidad y sus usos. 
+* Comprender notación científica, notación de ingeniería, el átomo dentro de la electricidad y sus usos. 
 * Analizar los principios de electricidad, simbología normalizada, formas de representación de un circuito y los instrumentos de medición usados en un circuito
 
 __Objetivos Específicos__
@@ -82,7 +82,7 @@ __CÁPITULO 1__
 ![](https://github.com/ItzAdoc/Deber1/blob/main/57.PNG)
 
 __58. Muchas revistas de electrónica y computación contienen anuncios de herramientas de software para computadora como el Pspice, Mathcad, Matlab y
-muchos otros. Consulte algunas de éstas revistas en la biblioteca de su escuela. Al estudiar estos anuncios se logra obtener un conocimiento valioso
+muchos otros. Consulte algunas de estas revistas en la biblioteca de su escuela. Al estudiar estos anuncios se logra obtener un conocimiento valioso
 acerca de lo que los paquetes de software modernos son capaces de hacer.__
 
 “Es un lenguaje y, a la vez, un entorno de programación gráfica en el que se puede crear aplicaciones de una forma rápida y sencilla” Vizcaíno, (2001) (pág. 21)  
@@ -131,15 +131,15 @@ https://www.youtube.com/watch?v=AeOUHNz546M
 
 
 5. Conclusiones 
-* Gracias a la notación científica y notación de ingeniería es posible reducir valores muy grandes o muy pequeños los cuales nos permiten trabajar de mejor manera.
+* Gracias a la notación científica y notación de ingeniería es posible reducir valores muy grandes o pequeños los cuales nos permiten trabajar de mejor manera.
 
-* Las principales magnitudes de la electricidad  son: voltaje, amperage, resistencia y potencia.
+* Las principales magnitudes de la electricidad son: voltaje, amperaje, resistencia y potencia.
 
 * Gracias al átomo y a la configuración electrónica se puedo conocer más a profundidad acerca del electrón, y gracias a ello se desarrolló el concepto de electricidad que conocemos hoy por hoy. 
 
 * La simbología normalizada permite que cualquier persona que esté familiarizada con la misma pueda entender un circuito hecho por otras personas. 
 
-* Existen instrumentos diferentes para cada una de las magnitudes, asi mismo como una forma de conexión la cual es única para cada magnitud 
+* Existen instrumentos diferentes para cada una de las magnitudes, así mismo como una forma de conexión la cual es única para cada magnitud. 
 
 
 6. Bibliografía
