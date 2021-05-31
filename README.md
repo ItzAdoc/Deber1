@@ -4,18 +4,18 @@
 1. Objetivos
  __Objetivos Generales__
 
-* Comprender las notaciones científica, notacion de ingeniería, el atomo drento de la electricidad y sus usos. 
-* Analizar los principios de electricidad, simbologia normalizada, formas de representación de un circuito y los instrumentos de medición usados en un circuito
+* Comprender las notaciones científica, notación de ingeniería, el átomo dentro de la electricidad y sus usos. 
+* Analizar los principios de electricidad, simbología normalizada, formas de representación de un circuito y los instrumentos de medición usados en un circuito
 
 __Objetivos Específicos__
 
 * Conocer y usar notación científica y notación de ingeniería. 
 
-* Comprender la importancia del atomo y sus propiedades dentro de la electricidad. 
+* Comprender la importancia del átomo y sus propiedades dentro de la electricidad. 
 
-* Conocer loas principales magnitudes que actúan en la electricidad. 
+* Conocer las principales magnitudes que actúan en la electricidad. 
 
-* Aplicar simbologia normalizada en representaciones de circuitos eléctricos. 
+* Aplicar simbología normalizada en representaciones de circuitos eléctricos. 
 
 * Usar correctamente los instrumentos de medida de un circuito eléctrico
 
@@ -26,7 +26,7 @@ __Objetivos Específicos__
 
 
 3. Resolución de los ejercicios
-* Resolver los ejercios del capítulo 1 y 2 del libro Análisis de Circuitos de Allan H. Robbins
+* Resolver los ejercicios del capítulo 1 y 2 del libro Análisis de Circuitos de Allan H. Robbins
 
 __CÁPITULO 1__
 
@@ -128,13 +128,13 @@ https://www.youtube.com/watch?v=AeOUHNz546M
 5. Conclusiones 
 * Gracias a la notación científica y notación de ingeniería es posible reducir valores muy grandes o muy pequeños los cuales nos permiten trabajar de mejor manera.
 
-
--Falta el 2 
 * Las principales magnitudes de la electricidad  son: voltaje, amperage, resistencia y potencia.
 
-* La simbologia normalizada permite que cualquier persona que esté familiarizada con la misma pueda entender un circuito hecho por otras personas. 
+* Gracias al átomo y a la configuración electrónica se puedo conocer más a profundidad acerca del electrón, y gracias a ello se desarrolló el concepto de electricidad que conocemos hoy por hoy. 
 
-* Existen instrumentos diferentes para cada una de las magnitudes, asi mismo como una forma de conexión
+* La simbología normalizada permite que cualquier persona que esté familiarizada con la misma pueda entender un circuito hecho por otras personas. 
+
+* Existen instrumentos diferentes para cada una de las magnitudes, asi mismo como una forma de conexión la cual es única para cada magnitud 
 
 
 6. Bibliografía
